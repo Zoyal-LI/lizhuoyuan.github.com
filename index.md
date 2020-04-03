@@ -8,7 +8,7 @@
       <p><b>地址：浙江省温州市鹿城区双屿街道双屿住宅区九组团1栋，邮编325000</b></p>
     </td>
     <td width="25%">
-      <img src="/证件照.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">      
     </td>
   </tr>
 </table>
